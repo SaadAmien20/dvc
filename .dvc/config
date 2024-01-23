@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+    autostage = true
+['remote "myremote"']
+    url = azure://allam-ocr-data/Temp_fortest/sharepoint_test/
+    connection_string = DefaultEndpointsProtocol=https;AccountName=allamwedatapipelineadls;AccountKey=/WjczNKWAxRJzpsMBPnumZ94/rex1N+DeG7YS7LxgTmETQgBV2Mt4F7wEWXHblnKLQFxMsV/TuZ++ASt+S6B5A==;EndpointSuffix=core.windows.net
